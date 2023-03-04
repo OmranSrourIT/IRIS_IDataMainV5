@@ -31,7 +31,10 @@ namespace IRIS_IDataMain.Controllers
 
 
             try
-            { 
+            {
+
+                //object x = null  ;
+                //var y = x.ToString();
 
                 bool isGoodQulity;
                 string liftEye = string.Empty;

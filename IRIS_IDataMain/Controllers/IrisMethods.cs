@@ -81,7 +81,7 @@ namespace IRIS_IDataMain.Controllers
 
                 if (iContactLensType != 0)
 				{
-					return iContactLensType + 100;
+					return 1;
 				}
 
 
